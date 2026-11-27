@@ -29,4 +29,5 @@ export function findMuseum(museums, id) {
 export function countByDepartment(museums) {
   // TODO: replace the line below with your code.
   return {};
+  
 }
